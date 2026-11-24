@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="https://youarelost.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" alt="footer" width="100%" /></a>
+<a href="https://youarelost.vercel.app"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding animation" width="100%" />
 
 <br>
 
