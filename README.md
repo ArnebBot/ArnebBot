@@ -12,7 +12,9 @@
 
 <br>
 
-<a href="https://youarelost.vercel.app"><img src="https://arnebcdn.vercel.app/shooter" alt="Space Defender minigame" width="100%" /></a>
+<a href="https://youarelost.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" alt="footer" width="100%" /></a>
+
+<br>
 
 ### 🕒 Live Clock
 
