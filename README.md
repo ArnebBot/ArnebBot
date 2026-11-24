@@ -12,6 +12,8 @@
 
 <br>
 
+<a href="https://youarelost.vercel.app"><img src="https://arnebcdn.vercel.app/shooter" alt="Space Defender minigame" width="100%" /></a>
+
 ### 🕒 Live Clock
 
 <a href="https://youarelost.vercel.app"><img src="https://arnebcdn.vercel.app/clock?tz=Asia/Jakarta" alt="Jam real time" width="100%" /></a>
